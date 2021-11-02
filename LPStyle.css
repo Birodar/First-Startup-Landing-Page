@@ -19,6 +19,7 @@ h1 {
 }
 
 .hline {
+  justify-content: center;
   margin: 15px 525px;
   border-radius: 3px;
   border: #ffd300 solid 3px;
