@@ -15,13 +15,21 @@ h1 {
   font-size: 3rem;
 }
 
+.hline {
+  margin: 15px 525px;
+  border-radius: 3px;
+  border: #ffd300 solid 3px;
+  max-width: 65px;
+  opacity: 100;
+}
+
 .btn.btn-lg {
   font-weight: 700px;
   border-radius: 300px;
   padding: 1rem 2rem;
-  background-color: red;
-  border: red solid 2px;
-  color: black;
+  background-color: #323529;
+  border: #ffd300 solid 2px;
+  color: white;
 }
 
 .btn.btn-lg:hover {
